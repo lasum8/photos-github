@@ -1,19 +1,606 @@
 {
-  "_SDI0367.JPG": {
-    "hash": "4553bda138e8f0b0e5f66231972fd511",
-    "filename": "_SDI0367.JPG",
-    "optimized_path": "optimized/_SDI0367.webp",
-    "date_taken": "2025-12-25T10:42:08",
-    "location": "New York",
+  "DSC01611.HEIC": {
+    "hash": "01034986f4b617baeed81457bb4fbd07",
+    "filename": "DSC01611.HEIC",
+    "optimized_path": "optimized/DSC01611.webp",
+    "date_taken": "2025-05-15T05:02:48",
+    "location": "Kyoto",
     "tags": [
-      "B&W"
+      "color",
+      "food"
     ]
   },
-  "_SDI0384.JPG": {
-    "hash": "b71677c47f0958e2900880f702b8e460",
-    "filename": "_SDI0384.JPG",
-    "optimized_path": "optimized/_SDI0384.webp",
-    "date_taken": "2025-12-25T13:19:27",
+  "DSC01617.HEIC": {
+    "hash": "3f1ae2a083f5dd28677b2a8a9b0f0e03",
+    "filename": "DSC01617.HEIC",
+    "optimized_path": "optimized/DSC01617.webp",
+    "date_taken": "2025-05-15T05:08:35",
+    "location": "Kyoto",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC01627.HEIC": {
+    "hash": "3b99fb79dc221824c8112dfffe9ce2cd",
+    "filename": "DSC01627.HEIC",
+    "optimized_path": "optimized/DSC01627.webp",
+    "date_taken": "2025-05-15T06:08:19",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01634.HEIC": {
+    "hash": "e333ab801c75acdd3f38259be7e27038",
+    "filename": "DSC01634.HEIC",
+    "optimized_path": "optimized/DSC01634.webp",
+    "date_taken": "2025-05-15T06:29:07",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01635.HEIC": {
+    "hash": "e573cb26103c9d8bcb151113069fb917",
+    "filename": "DSC01635.HEIC",
+    "optimized_path": "optimized/DSC01635.webp",
+    "date_taken": "2025-05-15T06:29:42",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01650.HEIC": {
+    "hash": "02c6b018f3c82debc0f34473ee63cd25",
+    "filename": "DSC01650.HEIC",
+    "optimized_path": "optimized/DSC01650.webp",
+    "date_taken": "2025-05-15T06:42:04",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01654.HEIC": {
+    "hash": "8e91b8004a57da6edc8be972fa29f4f0",
+    "filename": "DSC01654.HEIC",
+    "optimized_path": "optimized/DSC01654.webp",
+    "date_taken": "2025-05-15T06:44:49",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01659.HEIC": {
+    "hash": "8993a8b1c64a7d8f296225d8731baede",
+    "filename": "DSC01659.HEIC",
+    "optimized_path": "optimized/DSC01659.webp",
+    "date_taken": "2025-05-15T06:45:36",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01677.HEIC": {
+    "hash": "f4896c85ebb104c4061b3ca1703f26b3",
+    "filename": "DSC01677.HEIC",
+    "optimized_path": "optimized/DSC01677.webp",
+    "date_taken": "2025-05-15T06:51:42",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01738.HEIC": {
+    "hash": "8afae6c3aab6158c0e72a605d09a3c33",
+    "filename": "DSC01738.HEIC",
+    "optimized_path": "optimized/DSC01738.webp",
+    "date_taken": "2025-05-15T18:54:56",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01758.HEIC": {
+    "hash": "955a50de7c71ea4466b98d09082855eb",
+    "filename": "DSC01758.HEIC",
+    "optimized_path": "optimized/DSC01758.webp",
+    "date_taken": "2025-05-15T19:38:35",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01764.HEIC": {
+    "hash": "5b151b2a8692a2e0e09fe8db7bd9d3cc",
+    "filename": "DSC01764.HEIC",
+    "optimized_path": "optimized/DSC01764.webp",
+    "date_taken": "2025-05-15T19:43:30",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01771.HEIC": {
+    "hash": "9dcfd9e6d4ea63604e23d031a4776992",
+    "filename": "DSC01771.HEIC",
+    "optimized_path": "optimized/DSC01771.webp",
+    "date_taken": "2025-05-15T23:11:47",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01777.HEIC": {
+    "hash": "32629f4ac4800819f732035a223e2a96",
+    "filename": "DSC01777.HEIC",
+    "optimized_path": "optimized/DSC01777.webp",
+    "date_taken": "2025-05-16T00:43:39",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01786.HEIC": {
+    "hash": "5bf57a4d683c074cc6f81d1484ab0439",
+    "filename": "DSC01786.HEIC",
+    "optimized_path": "optimized/DSC01786.webp",
+    "date_taken": "2025-05-16T00:45:59",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01794.HEIC": {
+    "hash": "473401bfc43c4fae979acef0d9d2dcc0",
+    "filename": "DSC01794.HEIC",
+    "optimized_path": "optimized/DSC01794.webp",
+    "date_taken": "2025-05-16T00:48:39",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01796.HEIC": {
+    "hash": "44223ccc2972e4c8384555564fc637a9",
+    "filename": "DSC01796.HEIC",
+    "optimized_path": "optimized/DSC01796.webp",
+    "date_taken": "2025-05-16T00:49:13",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01811.HEIC": {
+    "hash": "d7aeadf0ebd0bbca02d92816e640a549",
+    "filename": "DSC01811.HEIC",
+    "optimized_path": "optimized/DSC01811.webp",
+    "date_taken": "2025-05-16T03:03:08",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01818.HEIC": {
+    "hash": "7310c91e8b502b4296e840ce6ebfcbb9",
+    "filename": "DSC01818.HEIC",
+    "optimized_path": "optimized/DSC01818.webp",
+    "date_taken": "2025-05-16T18:47:40",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01828.HEIC": {
+    "hash": "bb1f5e3733e8e4c645c71b247e6b4543",
+    "filename": "DSC01828.HEIC",
+    "optimized_path": "optimized/DSC01828.webp",
+    "date_taken": "2025-05-16T19:22:07",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01857.HEIC": {
+    "hash": "843b8e74d56bc74c5a1fa22b19d666b2",
+    "filename": "DSC01857.HEIC",
+    "optimized_path": "optimized/DSC01857.webp",
+    "date_taken": "2025-05-16T19:36:03",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01863.HEIC": {
+    "hash": "27edb465e44e9661b088b16797cf9606",
+    "filename": "DSC01863.HEIC",
+    "optimized_path": "optimized/DSC01863.webp",
+    "date_taken": "2025-05-16T19:36:12",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01871.HEIC": {
+    "hash": "e729392b63bde45c18341d9c9945bbf8",
+    "filename": "DSC01871.HEIC",
+    "optimized_path": "optimized/DSC01871.webp",
+    "date_taken": "2025-05-16T19:38:26",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01890.HEIC": {
+    "hash": "9529f50b633c7283c1f338dd383ba7cb",
+    "filename": "DSC01890.HEIC",
+    "optimized_path": "optimized/DSC01890.webp",
+    "date_taken": "2025-05-16T19:44:10",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01911.HEIC": {
+    "hash": "840c8fe54efb418b520410e39156da2f",
+    "filename": "DSC01911.HEIC",
+    "optimized_path": "optimized/DSC01911.webp",
+    "date_taken": "2025-05-17T02:12:32",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01920.HEIC": {
+    "hash": "b31e71eb303dcd9fb1b596de55147e8a",
+    "filename": "DSC01920.HEIC",
+    "optimized_path": "optimized/DSC01920.webp",
+    "date_taken": "2025-05-17T02:17:16",
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01944.HEIC": {
+    "hash": "855817642f64344ce2dace15daa6facc",
+    "filename": "DSC01944.HEIC",
+    "optimized_path": "optimized/DSC01944.webp",
+    "date_taken": "2025-05-17T20:49:14",
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01956.HEIC": {
+    "hash": "d5faa86ce08931fb720bdf6b68eaaa9f",
+    "filename": "DSC01956.HEIC",
+    "optimized_path": "optimized/DSC01956.webp",
+    "date_taken": "2025-05-17T20:55:23",
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01968.HEIC": {
+    "hash": "8117950ae134fa552ca469aab3e65880",
+    "filename": "DSC01968.HEIC",
+    "optimized_path": "optimized/DSC01968.webp",
+    "date_taken": "2025-05-17T21:05:31",
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01973.HEIC": {
+    "hash": "f5671d27dc49105614cd394ee33a5151",
+    "filename": "DSC01973.HEIC",
+    "optimized_path": "optimized/DSC01973.webp",
+    "date_taken": "2025-05-17T21:41:42",
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01981.HEIC": {
+    "hash": "a6a8725a71551ff23cab495040d7d9a7",
+    "filename": "DSC01981.HEIC",
+    "optimized_path": "optimized/DSC01981.webp",
+    "date_taken": "2025-05-17T21:49:02",
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01987.HEIC": {
+    "hash": "0d0e09fd78a8782ca352f2ca460c9326",
+    "filename": "DSC01987.HEIC",
+    "optimized_path": "optimized/DSC01987.webp",
+    "date_taken": "2025-05-20T22:52:56",
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC01991.HEIC": {
+    "hash": "284434445925ed7bcf990bc19a735b30",
+    "filename": "DSC01991.HEIC",
+    "optimized_path": "optimized/DSC01991.webp",
+    "date_taken": "2025-05-20T23:01:49",
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC01996.HEIC": {
+    "hash": "69940a616b4c07dd5bb36a761fb6986d",
+    "filename": "DSC01996.HEIC",
+    "optimized_path": "optimized/DSC01996.webp",
+    "date_taken": "2025-05-20T23:30:25",
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC01999.HEIC": {
+    "hash": "748d4f273dd9fd895ea028f0ba4557cc",
+    "filename": "DSC01999.HEIC",
+    "optimized_path": "optimized/DSC01999.webp",
+    "date_taken": "2025-05-20T23:38:57",
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC02001.HEIC": {
+    "hash": "9d49e1b8e4f14e6cfec8a80eced3f15a",
+    "filename": "DSC02001.HEIC",
+    "optimized_path": "optimized/DSC02001.webp",
+    "date_taken": "2025-05-21T00:08:41",
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC02005.HEIC": {
+    "hash": "09eeebfe8bacd271ff1a360d993da688",
+    "filename": "DSC02005.HEIC",
+    "optimized_path": "optimized/DSC02005.webp",
+    "date_taken": "2025-05-21T01:14:26",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02007.HEIC": {
+    "hash": "4ac6107e077c5d01af4554150cc92118",
+    "filename": "DSC02007.HEIC",
+    "optimized_path": "optimized/DSC02007.webp",
+    "date_taken": "2025-05-21T01:14:57",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02015.HEIC": {
+    "hash": "40c2c823b8ddf3ff1a6f7a785347abce",
+    "filename": "DSC02015.HEIC",
+    "optimized_path": "optimized/DSC02015.webp",
+    "date_taken": "2025-05-21T01:23:17",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02020.HEIC": {
+    "hash": "e2226b25f250756aeee6c45c76d8d5c0",
+    "filename": "DSC02020.HEIC",
+    "optimized_path": "optimized/DSC02020.webp",
+    "date_taken": "2025-05-21T01:30:30",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02038.HEIC": {
+    "hash": "0db43978911bcc7e464bd77362815e80",
+    "filename": "DSC02038.HEIC",
+    "optimized_path": "optimized/DSC02038.webp",
+    "date_taken": "2025-05-21T02:04:11",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02039.HEIC": {
+    "hash": "9aa64086390daa775db9cae2b03c0e95",
+    "filename": "DSC02039.HEIC",
+    "optimized_path": "optimized/DSC02039.webp",
+    "date_taken": "2025-05-21T02:04:32",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02041.HEIC": {
+    "hash": "02762168ebefb9cf3017401fbc2034d3",
+    "filename": "DSC02041.HEIC",
+    "optimized_path": "optimized/DSC02041.webp",
+    "date_taken": "2025-05-21T02:06:25",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02085.HEIC": {
+    "hash": "758242cfcaa102a03a12a7a31af78e08",
+    "filename": "DSC02085.HEIC",
+    "optimized_path": "optimized/DSC02085.webp",
+    "date_taken": "2025-05-21T02:24:18",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02087.HEIC": {
+    "hash": "0734d9df176e166687b7be649724f23b",
+    "filename": "DSC02087.HEIC",
+    "optimized_path": "optimized/DSC02087.webp",
+    "date_taken": "2025-05-21T02:48:00",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02092.HEIC": {
+    "hash": "b47c6f13c9b7ccea6bc9a94e4743b018",
+    "filename": "DSC02092.HEIC",
+    "optimized_path": "optimized/DSC02092.webp",
+    "date_taken": "2025-05-21T02:59:59",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02094.HEIC": {
+    "hash": "e0406ef726a05b0888ab2e6593d8c31a",
+    "filename": "DSC02094.HEIC",
+    "optimized_path": "optimized/DSC02094.webp",
+    "date_taken": "2025-05-21T03:00:27",
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02101.HEIC": {
+    "hash": "59a5c8975e23b39f4ab6a9ac1f1e542f",
+    "filename": "DSC02101.HEIC",
+    "optimized_path": "optimized/DSC02101.webp",
+    "date_taken": "2025-05-21T23:17:30",
+    "location": "Japan",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02102.HEIC": {
+    "hash": "82ab846b619b5bb31aa07ecb02cb14c2",
+    "filename": "DSC02102.HEIC",
+    "optimized_path": "optimized/DSC02102.webp",
+    "date_taken": "2025-05-22T21:20:33",
+    "location": "Hakone",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02117.HEIC": {
+    "hash": "dcdbb31930b5aa9d35b331f2a9a0481e",
+    "filename": "DSC02117.HEIC",
+    "optimized_path": "optimized/DSC02117.webp",
+    "date_taken": "2025-05-22T22:29:58",
+    "location": "Hakone",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02126.HEIC": {
+    "hash": "bc550fcf4ad1a6adbbc6dcde43089cc9",
+    "filename": "DSC02126.HEIC",
+    "optimized_path": "optimized/DSC02126.webp",
+    "date_taken": "2025-05-22T22:45:48",
+    "location": "Hakone",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02133.HEIC": {
+    "hash": "cf0ec7c313c7d23013cee11fa07f4521",
+    "filename": "DSC02133.HEIC",
+    "optimized_path": "optimized/DSC02133.webp",
+    "date_taken": "2025-05-22T22:52:56",
+    "location": "Hakone",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02149.HEIC": {
+    "hash": "22b04c641da9be96e405a0337acb9562",
+    "filename": "DSC02149.HEIC",
+    "optimized_path": "optimized/DSC02149.webp",
+    "date_taken": "2025-05-23T22:12:56",
+    "location": "Tokyo",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02152.HEIC": {
+    "hash": "ab441cc316d49156b5863969257ad31f",
+    "filename": "DSC02152.HEIC",
+    "optimized_path": "optimized/DSC02152.webp",
+    "date_taken": "2025-05-23T22:22:42",
+    "location": "Tokyo",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02154.HEIC": {
+    "hash": "3cff3fc33d6c6465842dcbf5a8cde4cf",
+    "filename": "DSC02154.HEIC",
+    "optimized_path": "optimized/DSC02154.webp",
+    "date_taken": "2025-05-23T22:25:26",
+    "location": "Tokyo",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02156.HEIC": {
+    "hash": "bcfd2e8904b3d6eb5b726ce2f6904b09",
+    "filename": "DSC02156.HEIC",
+    "optimized_path": "optimized/DSC02156.webp",
+    "date_taken": "2025-05-23T22:59:00",
+    "location": "Tokyo",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02159.HEIC": {
+    "hash": "0103574011d095a20a19c09353242cdb",
+    "filename": "DSC02159.HEIC",
+    "optimized_path": "optimized/DSC02159.webp",
+    "date_taken": "2025-06-05T19:16:53",
+    "location": "Fuji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02175.HEIC": {
+    "hash": "919d5896b4e8610d15bbeac51d1359e6",
+    "filename": "DSC02175.HEIC",
+    "optimized_path": "optimized/DSC02175.webp",
+    "date_taken": "2025-06-05T20:49:12",
+    "location": "Fuji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02195.HEIC": {
+    "hash": "2e1ca5ed4a6222223d891a590f0c46ca",
+    "filename": "DSC02195.HEIC",
+    "optimized_path": "optimized/DSC02195.webp",
+    "date_taken": "2025-06-05T22:19:50",
+    "location": "Fuji",
+    "tags": [
+      "color"
+    ]
+  },
+  "_SDI0279.JPG": {
+    "hash": "1e3518eea041cc15fdb02308e0131732",
+    "filename": "_SDI0279.JPG",
+    "optimized_path": "optimized/_SDI0279.webp",
+    "date_taken": "2025-12-23T16:04:28",
     "location": "New York",
     "tags": [
       "B&W"
@@ -24,6 +611,26 @@
     "filename": "_SDI0295.JPG",
     "optimized_path": "optimized/_SDI0295.webp",
     "date_taken": "2025-12-23T16:56:24",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0308.JPG": {
+    "hash": "9f7d09308fd77a28e962bdabc411b189",
+    "filename": "_SDI0308.JPG",
+    "optimized_path": "optimized/_SDI0308.webp",
+    "date_taken": "2025-12-23T17:34:06",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0356.JPG": {
+    "hash": "3c8befa96562009fa5048137966dba5f",
+    "filename": "_SDI0356.JPG",
+    "optimized_path": "optimized/_SDI0356.webp",
+    "date_taken": "2025-12-24T13:44:57",
     "location": "New York",
     "tags": [
       "B&W"
@@ -49,31 +656,11 @@
       "B&W"
     ]
   },
-  "_SDI0356.JPG": {
-    "hash": "3c8befa96562009fa5048137966dba5f",
-    "filename": "_SDI0356.JPG",
-    "optimized_path": "optimized/_SDI0356.webp",
-    "date_taken": "2025-12-24T13:44:57",
-    "location": "New York",
-    "tags": [
-      "B&W"
-    ]
-  },
-  "_SDI0395.JPG": {
-    "hash": "037e4c3ef6a9597cd82eb5d424b5a40a",
-    "filename": "_SDI0395.JPG",
-    "optimized_path": "optimized/_SDI0395.webp",
-    "date_taken": "2025-12-25T16:17:59",
-    "location": "New York",
-    "tags": [
-      "B&W"
-    ]
-  },
-  "_SDI0386.JPG": {
-    "hash": "dc4abc411a5778c755a81bb395acc04a",
-    "filename": "_SDI0386.JPG",
-    "optimized_path": "optimized/_SDI0386.webp",
-    "date_taken": "2025-12-25T13:20:37",
+  "_SDI0367.JPG": {
+    "hash": "4553bda138e8f0b0e5f66231972fd511",
+    "filename": "_SDI0367.JPG",
+    "optimized_path": "optimized/_SDI0367.webp",
+    "date_taken": "2025-12-25T10:42:08",
     "location": "New York",
     "tags": [
       "B&W"
@@ -89,21 +676,31 @@
       "B&W"
     ]
   },
-  "_SDI0308.JPG": {
-    "hash": "9f7d09308fd77a28e962bdabc411b189",
-    "filename": "_SDI0308.JPG",
-    "optimized_path": "optimized/_SDI0308.webp",
-    "date_taken": "2025-12-23T17:34:06",
+  "_SDI0384.JPG": {
+    "hash": "b71677c47f0958e2900880f702b8e460",
+    "filename": "_SDI0384.JPG",
+    "optimized_path": "optimized/_SDI0384.webp",
+    "date_taken": "2025-12-25T13:19:27",
     "location": "New York",
     "tags": [
       "B&W"
     ]
   },
-  "_SDI0279.JPG": {
-    "hash": "1e3518eea041cc15fdb02308e0131732",
-    "filename": "_SDI0279.JPG",
-    "optimized_path": "optimized/_SDI0279.webp",
-    "date_taken": "2025-12-23T16:04:28",
+  "_SDI0386.JPG": {
+    "hash": "dc4abc411a5778c755a81bb395acc04a",
+    "filename": "_SDI0386.JPG",
+    "optimized_path": "optimized/_SDI0386.webp",
+    "date_taken": "2025-12-25T13:20:37",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0395.JPG": {
+    "hash": "037e4c3ef6a9597cd82eb5d424b5a40a",
+    "filename": "_SDI0395.JPG",
+    "optimized_path": "optimized/_SDI0395.webp",
+    "date_taken": "2025-12-25T16:17:59",
     "location": "New York",
     "tags": [
       "B&W"

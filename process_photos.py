@@ -104,8 +104,10 @@ def load_json(path):
     return {}
 
 def save_json(data, path):
+    # Sort keys for consistent ordering
+    sorted_data = dict(sorted(data.items()))
     with open(path, 'w') as f:
-        json.dump(data, f, indent=2)
+        json.dump(sorted_data, f, indent=2)
 
 def main():
     # Ensure destination exists

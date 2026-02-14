@@ -1,50 +1,366 @@
 {
-  "_SDI0367.JPG": {
-    "location": "New York",
+  "DSC01611.HEIC": {
+    "location": "Kyoto",
     "tags": [
-      "mountain",
-      "snow",
-      "road-trip",
-      "B&W"
+      "color",
+      "food"
     ]
   },
-  "_SDI0360.JPG": {
-    "location": "New York",
+  "DSC01617.HEIC": {
+    "location": "Kyoto",
     "tags": [
-      "B&W"
+      "color",
+      "food"
     ]
   },
-  "_SDI0365.JPG": {
-    "location": "New York",
+  "DSC01627.HEIC": {
+    "location": "Kyoto",
     "tags": [
-      "B&W"
+      "color"
     ]
   },
-  "_SDI0356.JPG": {
-    "location": "New York",
+  "DSC01634.HEIC": {
+    "location": "Kyoto",
     "tags": [
-      "B&W"
+      "color"
     ]
   },
-  "_SDI0395.JPG": {
-    "location": "New York",
+  "DSC01635.HEIC": {
+    "location": "Kyoto",
     "tags": [
-      "B&W"
+      "color"
     ]
   },
-  "_SDI0384.JPG": {
-    "location": "New York",
+  "DSC01650.HEIC": {
+    "location": "Kyoto",
     "tags": [
-      "B&W"
+      "color"
     ]
   },
-  "_SDI0386.JPG": {
-    "location": "New York",
+  "DSC01654.HEIC": {
+    "location": "Kyoto",
     "tags": [
-      "B&W"
+      "color"
     ]
   },
-  "_SDI0379.JPG": {
+  "DSC01659.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01677.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01738.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01758.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01764.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01771.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01777.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01786.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01794.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01796.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01811.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01818.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01828.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01857.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01863.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01871.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01890.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01911.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01920.HEIC": {
+    "location": "Kyoto",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01944.HEIC": {
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01956.HEIC": {
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01968.HEIC": {
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01973.HEIC": {
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01981.HEIC": {
+    "location": "Himeji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC01987.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC01991.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC01996.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC01999.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC02001.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color",
+      "food"
+    ]
+  },
+  "DSC02005.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02007.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02015.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02020.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02038.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02039.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02041.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02085.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02087.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02092.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02094.HEIC": {
+    "location": "Nara",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02101.HEIC": {
+    "location": "Japan",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02102.HEIC": {
+    "location": "Hakone",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02117.HEIC": {
+    "location": "Hakone",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02126.HEIC": {
+    "location": "Hakone",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02133.HEIC": {
+    "location": "Hakone",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02149.HEIC": {
+    "location": "Tokyo",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02152.HEIC": {
+    "location": "Tokyo",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02154.HEIC": {
+    "location": "Tokyo",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02156.HEIC": {
+    "location": "Tokyo",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02159.HEIC": {
+    "location": "Fuji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02175.HEIC": {
+    "location": "Fuji",
+    "tags": [
+      "color"
+    ]
+  },
+  "DSC02195.HEIC": {
+    "location": "Fuji",
+    "tags": [
+      "color"
+    ]
+  },
+  "_SDI0279.JPG": {
     "location": "New York",
     "tags": [
       "B&W"
@@ -62,7 +378,49 @@
       "B&W"
     ]
   },
-  "_SDI0279.JPG": {
+  "_SDI0356.JPG": {
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0360.JPG": {
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0365.JPG": {
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0367.JPG": {
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0379.JPG": {
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0384.JPG": {
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0386.JPG": {
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0395.JPG": {
     "location": "New York",
     "tags": [
       "B&W"
