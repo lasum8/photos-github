@@ -1,5 +1,112 @@
 {
-  "_SDI0367.JPG": "4553bda138e8f0b0e5f66231972fd511",
-  "_SDI0384.JPG": "b71677c47f0958e2900880f702b8e460",
-  "_SDI0295.JPG": "b0d6a131cfa39fa2ee2855512ef7acaf"
+  "_SDI0367.JPG": {
+    "hash": "4553bda138e8f0b0e5f66231972fd511",
+    "filename": "_SDI0367.JPG",
+    "optimized_path": "optimized/_SDI0367.webp",
+    "date_taken": "2025-12-25T10:42:08",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0384.JPG": {
+    "hash": "b71677c47f0958e2900880f702b8e460",
+    "filename": "_SDI0384.JPG",
+    "optimized_path": "optimized/_SDI0384.webp",
+    "date_taken": "2025-12-25T13:19:27",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0295.JPG": {
+    "hash": "b0d6a131cfa39fa2ee2855512ef7acaf",
+    "filename": "_SDI0295.JPG",
+    "optimized_path": "optimized/_SDI0295.webp",
+    "date_taken": "2025-12-23T16:56:24",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0360.JPG": {
+    "hash": "4f6eab687a9a26d4b51a569af298b981",
+    "filename": "_SDI0360.JPG",
+    "optimized_path": "optimized/_SDI0360.webp",
+    "date_taken": "2025-12-24T14:00:11",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0365.JPG": {
+    "hash": "0dc3282725a306f7f8a8739108ed368e",
+    "filename": "_SDI0365.JPG",
+    "optimized_path": "optimized/_SDI0365.webp",
+    "date_taken": "2025-12-24T16:02:57",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0356.JPG": {
+    "hash": "3c8befa96562009fa5048137966dba5f",
+    "filename": "_SDI0356.JPG",
+    "optimized_path": "optimized/_SDI0356.webp",
+    "date_taken": "2025-12-24T13:44:57",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0395.JPG": {
+    "hash": "037e4c3ef6a9597cd82eb5d424b5a40a",
+    "filename": "_SDI0395.JPG",
+    "optimized_path": "optimized/_SDI0395.webp",
+    "date_taken": "2025-12-25T16:17:59",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0386.JPG": {
+    "hash": "dc4abc411a5778c755a81bb395acc04a",
+    "filename": "_SDI0386.JPG",
+    "optimized_path": "optimized/_SDI0386.webp",
+    "date_taken": "2025-12-25T13:20:37",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0379.JPG": {
+    "hash": "286f32da93609c3674542ca142fc33e6",
+    "filename": "_SDI0379.JPG",
+    "optimized_path": "optimized/_SDI0379.webp",
+    "date_taken": "2025-12-25T12:05:14",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0308.JPG": {
+    "hash": "9f7d09308fd77a28e962bdabc411b189",
+    "filename": "_SDI0308.JPG",
+    "optimized_path": "optimized/_SDI0308.webp",
+    "date_taken": "2025-12-23T17:34:06",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  },
+  "_SDI0279.JPG": {
+    "hash": "1e3518eea041cc15fdb02308e0131732",
+    "filename": "_SDI0279.JPG",
+    "optimized_path": "optimized/_SDI0279.webp",
+    "date_taken": "2025-12-23T16:04:28",
+    "location": "New York",
+    "tags": [
+      "B&W"
+    ]
+  }
 }
