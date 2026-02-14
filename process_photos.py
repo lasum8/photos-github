@@ -15,10 +15,11 @@ MANIFEST_FILE = DEST_DIR / "manifest.json"
 USER_METADATA_FILE = Path("user_metadata.json")
 MAX_DIMENSION = 2400  # Max width or height
 QUALITY = 85
-SUPPORTED_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.heic', '.heif'}
+SUPPORTED_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.heic', '.heif', '.avif'}
 
-# Register HEIF opener
+# Register Plugins
 pillow_heif.register_heif_opener()
+import pillow_avif # Register AVIF plugin implicitly
 
 def get_exif_data(img):
     """Extract basic EXIF data like date taken."""
