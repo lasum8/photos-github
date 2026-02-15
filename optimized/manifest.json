@@ -1,4 +1,59 @@
 {
+  "DSC01516.AVIF": {
+    "hash": "e31a6109c5d4bc1f9e31ef687175b7cf",
+    "filename": "DSC01516.AVIF",
+    "optimized_path": "optimized/DSC01516.webp",
+    "date_taken": "2025-04-05T09:45:06",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "flower"
+    ]
+  },
+  "DSC01524.AVIF": {
+    "hash": "f82013f19c8069e7a058b9b3e8ca816f",
+    "filename": "DSC01524.AVIF",
+    "optimized_path": "optimized/DSC01524.webp",
+    "date_taken": "2025-04-05T10:02:03",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "flower"
+    ]
+  },
+  "DSC01525.AVIF": {
+    "hash": "4b24c7802f130ff172c362edcaf525a7",
+    "filename": "DSC01525.AVIF",
+    "optimized_path": "optimized/DSC01525.webp",
+    "date_taken": "2025-04-05T10:03:32",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "flower"
+    ]
+  },
+  "DSC01527.AVIF": {
+    "hash": "ec6bd3bff323d1c2c78c00fe947aa518",
+    "filename": "DSC01527.AVIF",
+    "optimized_path": "optimized/DSC01527.webp",
+    "date_taken": "2025-04-05T10:08:12",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "flower"
+    ]
+  },
+  "DSC01565.AVIF": {
+    "hash": "3f3e6b40e63979e2ae64d012f6931abb",
+    "filename": "DSC01565.AVIF",
+    "optimized_path": "optimized/DSC01565.webp",
+    "date_taken": "2025-05-03T10:31:24",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "flower"
+    ]
+  },
   "DSC01611.AVIF": {
     "hash": "5aa5470ad8502895be801fe526100780",
     "filename": "DSC01611.AVIF",
@@ -594,6 +649,78 @@
     "location": "Fuji",
     "tags": [
       "color"
+    ]
+  },
+  "_DSC1406.JPG": {
+    "hash": "7a848a1c055c4a8dcd3b7a24b33da5ab",
+    "filename": "_DSC1406.JPG",
+    "optimized_path": "optimized/_DSC1406.webp",
+    "date_taken": "2025-03-01T14:03:41",
+    "location": "Toronto",
+    "tags": [
+      "color"
+    ]
+  },
+  "_DSC1426.JPG": {
+    "hash": "8cfb1583e25f01def401eae7f4faad05",
+    "filename": "_DSC1426.JPG",
+    "optimized_path": "optimized/_DSC1426.webp",
+    "date_taken": "2025-03-01T14:28:37",
+    "location": "Toronto",
+    "tags": [
+      "color"
+    ]
+  },
+  "_DSC1434.JPG": {
+    "hash": "249ab80aa1190931629472edc459bf3f",
+    "filename": "_DSC1434.JPG",
+    "optimized_path": "optimized/_DSC1434.webp",
+    "date_taken": "2025-03-01T14:35:00",
+    "location": "Toronto",
+    "tags": [
+      "color"
+    ]
+  },
+  "_DSC1439.JPG": {
+    "hash": "1e23ec37fb4f918806364ae738f22fc7",
+    "filename": "_DSC1439.JPG",
+    "optimized_path": "optimized/_DSC1439.webp",
+    "date_taken": "2025-03-01T14:42:03",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "people"
+    ]
+  },
+  "_DSC1446.JPG": {
+    "hash": "1fe8580c746a982a969e58f173184bab",
+    "filename": "_DSC1446.JPG",
+    "optimized_path": "optimized/_DSC1446.webp",
+    "date_taken": "2025-03-01T14:47:57",
+    "location": "Toronto",
+    "tags": [
+      "color"
+    ]
+  },
+  "_DSC1451.JPG": {
+    "hash": "b0b5c60a39f5ff70f62aa82d232c7ace",
+    "filename": "_DSC1451.JPG",
+    "optimized_path": "optimized/_DSC1451.webp",
+    "date_taken": "2025-03-01T14:54:19",
+    "location": "Toronto",
+    "tags": [
+      "color"
+    ]
+  },
+  "_DSC1469.JPG": {
+    "hash": "cd6501d1bd7198bf45ea2f96f92e22cc",
+    "filename": "_DSC1469.JPG",
+    "optimized_path": "optimized/_DSC1469.webp",
+    "date_taken": "2025-03-15T07:28:57",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "people"
     ]
   },
   "_SDI0279.JPG": {

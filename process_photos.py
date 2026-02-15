@@ -7,12 +7,14 @@ from PIL import Image, ExifTags
 import pillow_heif
 from tqdm import tqdm
 from datetime import datetime
+import pandas as pd
+import numpy as np
 
 # Configuration
 SOURCE_DIR = Path("originals")
 DEST_DIR = Path("optimized")
 MANIFEST_FILE = DEST_DIR / "manifest.json"
-USER_METADATA_FILE = Path("user_metadata.json")
+USER_METADATA_FILE = Path("user_metadata.csv")
 MAX_DIMENSION = 2400  # Max width or height
 QUALITY = 85
 SUPPORTED_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.heic', '.heif', '.avif'}
@@ -104,6 +106,28 @@ def load_json(path):
                 return {}
     return {}
 
+def load_metadata_csv(path):
+    if not path.exists():
+        return {}
+
+    try:
+        df = pd.read_csv(path).fillna("")
+        metadata = {}
+        for _, row in df.iterrows():
+            filename = row['filename']
+            # Split tags by semicolon and filter empty strings
+            tags_str = str(row.get('tags', ''))
+            tags = [t.strip() for t in tags_str.split(';') if t.strip()]
+
+            metadata[filename] = {
+                "location": str(row.get('location', '')),
+                "tags": tags
+            }
+        return metadata
+    except Exception as e:
+        print(f"Warning: Could not read metadata CSV: {e}")
+        return {}
+
 def save_json(data, path):
     # Sort keys for consistent ordering
     sorted_data = dict(sorted(data.items()))
@@ -115,7 +139,7 @@ def main():
     DEST_DIR.mkdir(parents=True, exist_ok=True)
 
     current_manifest = load_json(MANIFEST_FILE)
-    user_metadata = load_json(USER_METADATA_FILE)
+    user_metadata = load_metadata_csv(USER_METADATA_FILE)
 
     new_manifest = {}
     tasks = []
