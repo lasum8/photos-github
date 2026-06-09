@@ -832,5 +832,95 @@
     "tags": [
       "B&W"
     ]
+  },
+  "_SDI0410.JPG": {
+    "hash": "dc75d0fac6d747f97411e44a8a078173",
+    "filename": "_SDI0410.JPG",
+    "optimized_path": "optimized/_SDI0410.webp",
+    "date_taken": "2026-04-26T02:47:54",
+    "location": "Toronto",
+    "tags": [
+      "B&W",
+      "flower"
+    ]
+  },
+  "_SDI0412.JPG": {
+    "hash": "b1317a6dd543b3148ee2dccb45739015",
+    "filename": "_SDI0412.JPG",
+    "optimized_path": "optimized/_SDI0412.webp",
+    "date_taken": "2026-06-03T17:11:05",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "nature"
+    ]
+  },
+  "_SDI0421.JPG": {
+    "hash": "3a013013de946caaca34c634a9a06385",
+    "filename": "_SDI0421.JPG",
+    "optimized_path": "optimized/_SDI0421.webp",
+    "date_taken": "2026-06-03T17:37:14",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "nature"
+    ]
+  },
+  "_SDI0424.JPG": {
+    "hash": "2de22e62a2aa691db143d3beb7fad6ea",
+    "filename": "_SDI0424.JPG",
+    "optimized_path": "optimized/_SDI0424.webp",
+    "date_taken": "2026-06-07T12:03:34",
+    "location": "Toronto",
+    "tags": [
+      "B&W",
+      "art gallery"
+    ]
+  },
+  "_SDI0429.JPG": {
+    "hash": "5d2f7f520f409b915f4a613aa317bea1",
+    "filename": "_SDI0429.JPG",
+    "optimized_path": "optimized/_SDI0429.webp",
+    "date_taken": "2026-06-07T12:20:13",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "art gallery"
+    ]
+  },
+  "_SDI0430.JPG": {
+    "hash": "03d579e083a10a8b56d38ad5bbb21324",
+    "filename": "_SDI0430.JPG",
+    "optimized_path": "optimized/_SDI0430.webp",
+    "date_taken": "2026-06-07T12:31:07",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "art gallery",
+      "people"
+    ]
+  },
+  "_SDI0440.JPG": {
+    "hash": "be503b808708110a2aa6bdbb73b66304",
+    "filename": "_SDI0440.JPG",
+    "optimized_path": "optimized/_SDI0440.webp",
+    "date_taken": "2026-06-07T14:07:20",
+    "location": "Toronto",
+    "tags": [
+      "B&W",
+      "art gallery"
+    ]
+  },
+  "_SDI0442.JPG": {
+    "hash": "15b5ec1b96de4158419a5473ce4fad39",
+    "filename": "_SDI0442.JPG",
+    "optimized_path": "optimized/_SDI0442.webp",
+    "date_taken": "2026-06-07T14:55:34",
+    "location": "Toronto",
+    "tags": [
+      "color",
+      "art gallery",
+      "people"
+    ]
   }
 }
